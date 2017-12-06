@@ -1,0 +1,44 @@
+.wrap {
+    text-align: center;
+    position: relative;
+  }
+  
+  h1 {
+    font-family: "Ranchers", cursive;
+    color: orangered;
+    text-shadow: 0px 4px 5px black;
+  }
+  
+  #btn-calculate {
+    height: 50px;
+    width: 150px;
+    background-color: orange;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  #result,
+  #resto,
+  #transfer {
+    font-family: "Ranchers", cursive;
+    background-color: teal;
+    height: 30px;
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .wrap-result {
+    position: relative;
+  }
+  
+  
+  
